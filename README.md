@@ -1,0 +1,3 @@
+# GitHubSearch
+
+Clean Architecture example.
